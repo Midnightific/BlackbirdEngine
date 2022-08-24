@@ -2,8 +2,8 @@
 <h1>Loader</h1>
 
 [![version](https://img.shields.io/badge/version-v1.0.0-red?style=flat-square)](https://github.com/Midnightific/Blackbird/releases)
-[![docs](https://img.shields.io/badge/docs-website-blueviolet?style=flat-square)](https://mullets-gavin.github.io/Loader/)
-[![support](https://img.shields.io/badge/support-mullets-blue?style=flat-square)](https://www.buymeacoffee.com/mullets)
+[![publish-docs](https://img.shields.io/badge/docs-website-blueviolet?style=flat-square)](https://Midnightific.github.io/Blackbird/)
+[![support](https://img.shields.io/badge/support-Midnight-blue?style=flat-square)](https://www.roblox.com/games/7460546768/Donation-Center)
 
 *A simple library/module loader for Roblox with more features coming soon!*
 </div>
