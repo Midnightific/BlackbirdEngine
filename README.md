@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Loader</h1>
+<h1>Blackbird</h1>
 
 [![version](https://img.shields.io/badge/version-v1.0.0-red?style=flat-square)](https://github.com/Midnightific/Blackbird/releases)
 [![publish-docs](https://img.shields.io/badge/docs-website-blueviolet?style=flat-square)](https://Midnightific.github.io/Blackbird/)
