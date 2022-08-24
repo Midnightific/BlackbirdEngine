@@ -18,13 +18,7 @@ This project is licensed under the MIT license. See [LICENSE](https://github.com
 
 ## Installation
 
-There are a few ways you can install Blackbird for your project.
-
-### Installating using npm
-You can install the npm package by running the following in your VSC command terminal:
-```
-npm install @Midnightific/Blackbird
-```
+There is currently only one way to install blackbird but more are on the way!
 
 ### Installing via copy and paste
 You can also copy and paste the files you want into your project repository or studio. However, the more libraries/modules you want to copy, the more time it's going to take, it becomes less ergonomic in the end this way. But don't let that discourage you, you copy and pasters!
