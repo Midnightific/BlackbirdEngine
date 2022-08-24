@@ -3,7 +3,7 @@
 
 [![version](https://img.shields.io/badge/version-v1.0.0-red?style=flat-square)](https://github.com/Midnightific/Blackbird/releases)
 [![publish-docs](https://img.shields.io/badge/docs-website-blueviolet?style=flat-square)](https://Midnightific.github.io/Blackbird/)
-[![support](https://img.shields.io/badge/support-blue?style=flat-square)](https://www.roblox.com/games/7460546768/Donation-Center)
+[![support](https://img.shields.io/badge/support-donate-blue?style=flat-square)](https://www.roblox.com/games/7460546768/Donation-Center)
 
 *A simple library/module loader for Roblox with more features coming soon!*
 </div>
